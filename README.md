@@ -54,4 +54,4 @@ transformation.resize_image(image_test, 0.5)
 Geraldo Henrique Fonseca
 
 ## Licença
-[GNU](https://choosealicense.com/licenses/gnu/)
+[GNU](https://www.gnu.org/licenses/gpl-3.0.en.html)
