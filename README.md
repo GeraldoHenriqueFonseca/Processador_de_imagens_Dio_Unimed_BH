@@ -54,4 +54,4 @@ transformation.resize_image(image_test, 0.5)
 Geraldo Henrique Fonseca
 
 ## Licença
-[MIT](https://choosealicense.com/licenses/mit/)
+[GNU](https://choosealicense.com/licenses/gnu/)
