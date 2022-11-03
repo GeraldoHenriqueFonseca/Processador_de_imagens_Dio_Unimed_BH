@@ -9,9 +9,9 @@
 - Primeiro se realiza uma instalação ou upgrade do `pip`, `twine`, `setuptools` e `wheel`
 
 python -m pip install --upgrade pip
-python -m pip install twine
-python -m pip install setuptools
-python -m pip install wheel
+python -m pip install --user twine
+python -m pip install --user setuptools
+python -m pip install --user wheel
 
 - Cria-se as distribuições
 
@@ -54,4 +54,6 @@ transformation.resize_image(image_test, 0.5)
 Geraldo Henrique Fonseca
 
 ## Licença
-[GNU](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
